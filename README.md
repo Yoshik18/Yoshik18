@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/askyoshik" target="blank"><img src="https://img.shields.io/twitter/follow/askyoshik?logo=twitter&style=for-the-badge" alt="askyoshik" /></a> </p>
 
-- 🔭 I’m currently working on [Doctor AI Pro](https://doctoraipro.com)
+- 🔭 I’m currently working on **improving edge and BCP strategies to handle more than 1 billion requests per day.**
 
 - 🌱 I’m currently learning **distributed system architectures, service mesh patterns, scalable container orchestration using kubernetes, high-availability infrastructure, and cost-optimized GPU inference on multi-cloud clusters.**
 
